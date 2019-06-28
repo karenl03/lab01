@@ -8,3 +8,5 @@ def index():
 if __name__ == "__main__": #condition: if part of main function
 	app.run(debug=True) #runs flask
 
+	#test
+
